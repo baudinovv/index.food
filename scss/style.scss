@@ -137,7 +137,7 @@ body{
     position: relative;
 }
 .slide-summer{
-    background: url("/img/summer.png");
+    background: url("../img/summer.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -291,7 +291,7 @@ body{
 .dishes{
     margin-top: 70px;
     background-color: #F6F6F6;
-    box-shadow: 0px 4px 9px 0px black;
+    box-shadow: 0px 0px 0.9px 0px black;
 }
 .dishes__card{
     background: #FFFFFF;
